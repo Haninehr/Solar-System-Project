@@ -1,4 +1,4 @@
-#Solar-System-Project
+Solar-System-Project
 
 A realistic, interactive 3D solar system visualization built using **OpenGL**, **GLUT**, and **GLU**, featuring textured planets, dynamic day/night cycles, orbiting moons/satellites, Saturn's rings, Venus atmosphere, Earth clouds, skybox background, camera controls, orbit toggling, and smooth animation.
 
