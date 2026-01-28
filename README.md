@@ -1,4 +1,4 @@
-Solar-System-Project
+# Solar-System-Project
 
 A realistic, interactive 3D solar system visualization built using **OpenGL**, **GLUT**, and **GLU**, featuring textured planets, dynamic day/night cycles, orbiting moons/satellites, Saturn's rings, Venus atmosphere, Earth clouds, skybox background, camera controls, orbit toggling, and smooth animation.
 
@@ -40,29 +40,29 @@ A realistic, interactive 3D solar system visualization built using **OpenGL**, *
 - **OpenGL** + **GLUT** + **GLU** development libraries
   
 
-Project Structure
-solar-system-project/
-├── index.cpp                # The complete source code
-├── textures/               # All planet/sky textures go here
-│   ├── 8k_sun.jpg
-│   ├── 8k_earth.jpg
-│   ├── 8k_earth_night.jpg
-│   ├── 8k_earth_clouds.jpg
-│   ├── 8k_mercury.jpg
-│   ├── 2k_mars.jpg
-│   ├── 8k_jupiter.jpg
-│   ├── 2k_saturn.jpg
-│   ├── 2k_saturn_ring_alpha.png
-│   ├── 2k_uranus.jpg
-│   ├── 2k_neptune.jpg
-│   ├── 8k_moon.jpg
-│   ├── 8k_stars_milky_way.jpg
-│   ├── panneaux.jpg        # Satellite body
-│   ├── anttenne.png        # Satellite antenna
-│   └── metal.png           # Satellite thrusters/parts
-├── screenshots/            
-├── stb_image.h
-└── README.md
+Project Structure<br>
+solar-system-project/<br>
+├── index.cpp                # The complete source code<br>
+├── textures/               # All planet/sky textures go here<br>
+│   ├── 8k_sun.jpg<br>
+│   ├── 8k_earth.jpg<br>
+│   ├── 8k_earth_night.jpg<br>
+│   ├── 8k_earth_clouds.jpg<br>
+│   ├── 8k_mercury.jpg<br>
+│   ├── 2k_mars.jpg<br>
+│   ├── 8k_jupiter.jpg<br>
+│   ├── 2k_saturn.jpg<br>
+│   ├── 2k_saturn_ring_alpha.png<br>
+│   ├── 2k_uranus.jpg<br>
+│   ├── 2k_neptune.jpg<br>
+│   ├── 8k_moon.jpg<br>
+│   ├── 8k_stars_milky_way.jpg<br>
+│   ├── panneaux.jpg        # Satellite body<br>
+│   ├── anttenne.png        # Satellite antenna<br>
+│   └── metal.png           # Satellite thrusters/parts<br>
+├── screenshots/            <br>
+├── stb_image.h<br>
+└── README.md<br>
 
 
 Where to get Textures?
