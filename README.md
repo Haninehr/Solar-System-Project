@@ -1,8 +1,10 @@
-# Solar-System-Project
+# Solar System Project
 
 A realistic, interactive 3D solar system visualization built using **OpenGL**, **GLUT**, and **GLU**, featuring textured planets, dynamic day/night cycles, orbiting moons/satellites, Saturn's rings, Venus atmosphere, Earth clouds, skybox background, camera controls, orbit toggling, and smooth animation.
 
 ![Solar System Screenshot](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
 
 
 ## Features
@@ -40,7 +42,7 @@ A realistic, interactive 3D solar system visualization built using **OpenGL**, *
 - **OpenGL** + **GLUT** + **GLU** development libraries
   
 
-Project Structure<br>
+## Project Structure<br>
 solar-system-project/<br>
 ├── index.cpp                # The complete source code<br>
 ├── textures/               # All planet/sky textures go here<br>
@@ -71,7 +73,7 @@ You can download high-quality planet textures from these free sources:
 https://www.solarsystemscope.com/textures/
 
 
-Known Limitations / Future Improvements
+## Known Limitations / Future Improvements
 
 No collision detection or accurate astronomical scale (artistic representation)
 Performance may drop with very high-resolution textures on low-end hardware
@@ -83,10 +85,10 @@ Time acceleration control
 Planet name labels in 3D
 
 
-Author
+## Author
 
 Hanine Rouibah
 Created in 2025 as part of a Computer Graphics project.
 
-License
+## License
 MIT License – feel free to use, modify, and share!
