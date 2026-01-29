@@ -75,14 +75,14 @@ https://www.solarsystemscope.com/textures/
 
 ## Known Limitations / Future Improvements
 
-No collision detection or accurate astronomical scale (artistic representation)
-Performance may drop with very high-resolution textures on low-end hardware
-No shader support (fixed-function pipeline – compatible with old systems)
+No collision detection or accurate astronomical scale (artistic representation)<br>
+Performance may drop with very high-resolution textures on low-end hardware<br>
+No shader support (fixed-function pipeline – compatible with old systems)<br>
 Possible future additions:
-Realistic lighting with normal maps
-Comet/asteroid belt
-Time acceleration control
-Planet name labels in 3D
+Realistic lighting with normal maps<br>
+Comet/asteroid belt<br>
+Time acceleration control<br>
+Planet name labels in 3D<br>
 
 
 ## Author
